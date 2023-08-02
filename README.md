@@ -22,5 +22,9 @@
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgiosso&show_icons=true&theme=dark&locale=en&layout=compact" alt="lucasgiosso" /> </p>
 </div>
 
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasgiosso&label=Profile%20views&color=0e75b6&style=plastic" alt="lucasgiosso" /> </p>
+
 
 
