@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
-
+<h3 align="center">Programming student at National Technological University (UTN) </h3>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -10,4 +9,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/lucasdiazgiosso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasgiosso" height="30" width="40" /></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgiosso&show_icons=true&locale=en&layout=compact" alt="lucasgiosso" /></p>
+
 
