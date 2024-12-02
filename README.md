@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋, I'm Lucas </h1>
-<h3 align="center">Higher Technician in Programming at the National Technological University (UTN). </h3>
+<h3 align="center">Higher Programming Technician at the National Technological University (UTN). </h3>
 
 ---
 
