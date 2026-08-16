@@ -35,6 +35,7 @@ jobs:
         with:
           username: lucasgiosso
           output_path: profile/trophy.svg
+          theme: tokyonight
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate snake animation
