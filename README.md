@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Lucas%20Giosso&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header banner"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Higher+Programming+Technician+(UTN);Building+with+code%2C+one+commit+at+a+time;Always+learning+something+new" alt="Typing SVG" />
@@ -48,5 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="500" style="max-width:100%; height:auto;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2E9EF7&background=00000000&center=true&vCenter=true&width=600&height=100&lines=%24+whoami;lucas+%E2%80%94+programmer;%24+cat+skills.txt;C+%7C+C%23+%7C+JS+%7C+PHP+%7C+SQL" alt="terminal typing"/>
 </p>
