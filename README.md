@@ -4,6 +4,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Higher+Programming+Technician+(UTN);Building+with+code%2C+one+commit+at+a+time;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
+<h3 align="center">👨‍💻 About me</h3>
+<p align="center">
+  Técnico Superior en Programación (UTN). Me interesa el desarrollo web y la automatización.<br/>
+  Ocasionalmente experimento con proyectos personales y herramientas nuevas.
+</p>
+
+<hr>
+
+<h3 align="center">📌 Top Languages</h3>
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="lucasgiosso top langs" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucasgiosso&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/lucasgiosso?label=Followers&style=flat&color=2E9EF7" alt="followers" />
