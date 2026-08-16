@@ -34,7 +34,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: lucasgiosso
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           theme: tokyonight
           token: ${{ secrets.GITHUB_TOKEN }}
 
