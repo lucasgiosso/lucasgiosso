@@ -29,16 +29,25 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgiosso&show_icons=true&theme=tokyonight&hide_border=true" alt="lucasgiosso stats" height="165"/>
+  <img src="./profile/stats.svg" alt="lucasgiosso stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgiosso&theme=tokyonight&hide_border=true" alt="lucasgiosso streak" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgiosso&layout=compact&theme=tokyonight&hide_border=true" alt="lucasgiosso top langs" />
+  <img src="./profile/top-langs.svg" alt="lucasgiosso top langs" />
 </p>
 
 <h3 align="center">🏆 Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasgiosso&theme=tokyonight&no-frame=true&row=1&column=6" alt="lucasgiosso trophies" />
+  <img src="./profile/trophy.svg" alt="lucasgiosso trophies" />
+</p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+    <img alt="snake animation" src="./profile/snake.svg" />
+  </picture>
 </p>
 
 <hr>
