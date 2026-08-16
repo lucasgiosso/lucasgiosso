@@ -8,8 +8,8 @@
 
 <h3 align="center">👨‍💻 About me</h3>
 <p align="center">
-  Técnico Superior en Programación (UTN). Me interesa el desarrollo web y la automatización.<br/>
-  Ocasionalmente experimento con proyectos personales y herramientas nuevas.
+  Higher Technician in Programming (UTN). Interested in web development and automation.<br/>
+  Occasionally experimenting with personal projects and new tools.
 </p>
 
 <hr>
