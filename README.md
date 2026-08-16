@@ -27,8 +27,6 @@
 
 <hr>
 
-<hr>
-
 <h3 align="center">🔗 Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/lucasdiazgiosso" target="_blank" rel="noreferrer">
